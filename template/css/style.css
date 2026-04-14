@@ -10,7 +10,7 @@ body{
 } 
  
 /* Membuat Container menjadi layout flexbox dan kotak login di tengah */ 
-.container{ 
+.container-el{ 
     display: flex; 
     flex-basis: wrap; 
     justify-content: center; 
